@@ -1,0 +1,6 @@
+First line of text
+12345
+Third line with a mix of text and numbers
+Fourth line added during append operation
+67890
+Sixth line appended with a mix of text and numbers
